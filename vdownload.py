@@ -5,7 +5,7 @@ from os import system
 import os
 from multiprocessing.pool import ThreadPool
 import shutil
-from glob import glob
+
 
 class RequestsClient():
     def download(self, uri, timeout=None, headers={}, verify_ssl=True):
