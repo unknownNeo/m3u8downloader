@@ -1,8 +1,8 @@
 # m3u8downloader
 m3u8 video downloader <br /> 
+use : python3 vdownload.py
 Requerments: <br /> 
 1. python3.x <br /> 
-Modules:  <br /> 
-1. m3u8 <br /> 
-2. shutil <br />
-3. requests <br /> 
+2. m3u8 <br /> 
+3. shutil <br />
+4. requests <br /> 
